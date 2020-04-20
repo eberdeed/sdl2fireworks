@@ -1,0 +1,8 @@
+
+    Change Log for SDL2Fireworks
+
+    03/24/20 Initial program written and documented.
+    ECE
+
+    04/18/20 Documented and removed the Framebuffer object.
+    ECE
